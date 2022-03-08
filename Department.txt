@@ -6,5 +6,7 @@ Well come to SRM University
   Mechanical
   Civil
   CSE
+  EEE
+  ECE
   
                 Thank You:)
